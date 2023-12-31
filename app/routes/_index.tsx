@@ -11,7 +11,7 @@ export default function Index() {
   return (
     <div>
       <h1>Welcome to my website.</h1>
-      <span>This  site is under construction!</span>
+      <span>This  site is under construction(staging)!</span>
     </div>
   );
 }
