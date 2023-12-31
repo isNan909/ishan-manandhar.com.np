@@ -20,8 +20,8 @@ export default function Index() {
         <div className="pt-6">
           <p className="text-gray-300 leading-relaxed">
             Designing and building delightful product experience that is
-            memorable and easy to use. I am obscessed about good UX and
-            Functional programming.{' '}
+            memorable and easy to use. I am obsessed about good UX and
+            functional programming.{' '}
           </p>
           <p className="text-gray-300 pt-3 leading-relaxed">
             During my time outside of work; I love to contribute to open source
