@@ -5,7 +5,7 @@ export const meta: MetaFunction = () => {
     { title: 'Ishan Manandhar' },
     {
       name: 'Product designer and developer',
-      content: 'Welcome to ishan-manandhar.com.np',
+      content: 'Welcome to ishan website',
     },
   ];
 };
